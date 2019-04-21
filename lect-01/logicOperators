@@ -1,0 +1,8 @@
+# Logic operators
+
+a = False
+b = True
+
+not a   # True
+a and b # False
+a or b  # True
